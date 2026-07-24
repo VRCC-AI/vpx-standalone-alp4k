@@ -6,7 +6,7 @@
 
 | Backglass | DMD | ROM Required | Has Puppack | FPS |
 |-----------|-----|-----|-----|-----|
-| ✅ | ❌ | ❌ | ❌ | 60 |
+| ✅ | ✅ | ❌ | ✅ | 60 |
 
 <br>
 
