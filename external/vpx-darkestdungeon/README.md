@@ -32,9 +32,9 @@ This table is available through the Table Manager Wizard, which makes installati
 1.  Open the **Table Manager**
 2.  Click the **Add Table** button
 3.  Select the **Wizard** tab
-4.  Find and select this table from the dropdown menu: **`Diablo 2 (Original 2026)`**
+4.  Find and select this table from the dropdown menu: **`Darkest Dungeon (Original 2023)`**
 5.  Follow the on-screen instructions to download and upload the required files
-6. *"Stay awhile, and listen..."*
+6. *"Perhaps the wait will innoculate you from the horrors down below..."*
 
 <br>
 
