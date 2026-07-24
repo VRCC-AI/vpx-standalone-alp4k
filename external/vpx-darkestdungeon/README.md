@@ -1,4 +1,4 @@
-# Darkest Dungeon 2 (Original 2023)
+# Darkest Dungeon (Original 2023)
 
 <br>
 
