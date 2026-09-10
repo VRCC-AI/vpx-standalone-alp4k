@@ -32,9 +32,9 @@ This table is available through the Table Manager Wizard, which makes installati
 1.  Open the **Table Manager**
 2.  Click the **Add Table** button
 3.  Select the **Wizard** tab
-4.  Find and select this table from the dropdown menu: **`Bram Stoker's Dracula`**
+4.  Find and select this table from the dropdown menu: **`Monopoly (Stern 2001)`**
 5.  Follow the on-screen instructions to download and upload the required files
-6. *"The blood is the life!"*
+6. *"Become a tycoon... Like me!"*
 
 <br>
 
