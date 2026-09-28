@@ -34,7 +34,7 @@ Const BounceMax = 7
 '----- VR Room Auto-Detect & Trim Options -----
 Dim VRRoom, VR_Obj, GoldTrim
 
-GoldTrim = 1 ' 0 = Standard Trim  1 = Gold Trim (Stern Limited Edition Model - Rails/Legs/Lockbar/Speakers)
+GoldTrim = 0 ' 0 = Standard Trim  1 = Gold Trim (Stern Limited Edition Model - Rails/Legs/Lockbar/Speakers)
 
 If RenderingMode = 2 Then
 	VRRoom = 1
