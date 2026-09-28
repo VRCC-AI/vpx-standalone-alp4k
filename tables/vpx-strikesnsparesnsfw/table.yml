@@ -1,4 +1,5 @@
 ---
+enabled: false
 backglassAuthorsOverride:
   - "HiRez00"
 backglassChecksum: "0E62A53D943C56D92F40F1ED76B964ED"
