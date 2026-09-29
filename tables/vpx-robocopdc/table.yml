@@ -6,9 +6,8 @@ backglassBundled: true
 backglassChecksum: "0CB190E8DC9F81EF997F585B6445A991"
 backglassNotes: "Backglass included in pup pack"
 fps: 60
-nsfw: true
 pupArchiveFormat: "zip"
-pupArchiveRoot: "pupvideos"
+pupArchiveRoot: "robo_a34"
 pupChecksum: "5605E21B1E167578153A35C3090F4E26"
 pupFileUrl: "https://vpuniverse.com/files/file/26962-robocop-dc-pup-pack-dmd-and-16x9-b2s/"
 pupRequired: true
