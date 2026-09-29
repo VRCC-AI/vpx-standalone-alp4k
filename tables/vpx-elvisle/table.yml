@@ -1,0 +1,21 @@
+---
+altSoundArchiveFormat: "zip"
+altSoundChecksum: "F6E20DBB5CB1CC06C3E4774F0A1BE80A"
+altSoundVPSId: "zM4Kjnx-Yn"
+backglassChecksum: "63DB09D3149960EE4432E49C512A56FD"
+backglassNotes: "Download 'Elvis (Stern 2004) full dmd authentic.zip'"
+backglassVPSId: "fW3fXN1tFN"
+coloredROMChecksum: "45950D98AE7CDFAD1C381E81742D778C"
+coloredROMVPSId: "_t9uEurX0Z"
+fps: 60
+romChecksum: "95432F7585D7F00F57903EBFFC54C103"
+romVPSId: "ETlbkDB-"
+tableManufacturerOverride: "Stern"
+tableNameOverride: "Elvis (Pro)"
+tableVPSId: "-VnzDCQs"
+tableYearOverride: 2002
+testers:
+  - "Miku"
+tutorialVPSId: "XYKYzCtsvZ"
+vpxChecksum: "D5131DA5E9B78E61786501CDCBB1FF87"
+vpxVPSId: "VBiGyjgZ"
