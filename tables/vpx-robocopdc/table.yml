@@ -2,6 +2,9 @@
 altSoundArchiveFormat: "rar"
 altSoundChecksum: "48A90E65C58A2665004A9B6BF2AE35D4"
 altSoundVPSId: "oDOasBDWwA"
+backglassBundled: true
+backglassChecksum: "0CB190E8DC9F81EF997F585B6445A991"
+backglassNotes: "Backglass included in pup pack"
 fps: 60
 nsfw: true
 pupArchiveFormat: "zip"
