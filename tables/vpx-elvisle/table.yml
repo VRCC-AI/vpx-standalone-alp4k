@@ -16,7 +16,7 @@ pupChecksum: "8190C6E91B238CF8E9415B0EE09D31E5"
 pupFileUrl: "https://vpuniverse.com/files/file/9676-elvis-pup-pack/"
 pupNotes: "Download version 1.0.1"
 pupRequired: true
-pupVersion: "1.0.1"
+pupVersion: "elvis"
 romChecksum: "95432F7585D7F00F57903EBFFC54C103"
 romNotes: "Download version elvis"
 romUrlOverride: "https://www.vpforums.org/index.php?app=downloads&showfile=319"
