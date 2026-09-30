@@ -12,7 +12,6 @@ coloredROMUrlOverride: "https://vpuniverse.com/files/file/16587-elvis-stern-2004
 coloredROMVersionOverride: "1.01"
 fps: 57
 pupArchiveFormat: "zip"
-pupArchiveRoot: "elvis"
 pupChecksum: "8190C6E91B238CF8E9415B0EE09D31E5"
 pupFileUrl: "https://vpuniverse.com/files/file/9676-elvis-pup-pack/"
 pupNotes: "Download version 1.0.1"
