@@ -10,7 +10,7 @@ coloredROMChecksum: "45950D98AE7CDFAD1C381E81742D778C"
 coloredROMNotes: "Download version 1.0.1"
 coloredROMUrlOverride: "https://vpuniverse.com/files/file/16587-elvis-stern-2004-serum-colorization/"
 coloredROMVersionOverride: "1.01"
-fps: 57
+fps: 60
 pupArchiveFormat: "zip"
 pupChecksum: "8190C6E91B238CF8E9415B0EE09D31E5"
 pupFileUrl: "https://vpuniverse.com/files/file/9676-elvis-pup-pack/"
