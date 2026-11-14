@@ -1,0 +1,18 @@
+---
+fps: 60
+pupArchiveFormat: "rar"
+pupArchiveRoot: "hurr_l2kk"
+pupBundled: true
+pupChecksum: "8E1B371CE12393AC3EAA4726299E5453"
+pupFileUrl: "https://vpuniverse.com/files/file/15135-killer-klowns-pup-and-table-balutito-mod/"
+pupNotes: "Download 'hurr_l2kk.rar'"
+pupRequired: true
+pupVersion: "2.01"
+romChecksum: "8DF8DC92E797F620BCBB65DFDDD2DA75"
+romVPSId: "3XMstlt_Ih"
+tableNotes: "Download '1 Killer Klowns balutito 2.0 Pup.vpx'"
+tableVPSId: "KHZeuYl75W"
+testers:
+  - "Miku"
+vpxChecksum: "EAD41B03853C1A038EF9A69AF6B7E1AA"
+vpxVPSId: "qcmgfDJpNz"
